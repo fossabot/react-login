@@ -1,4 +1,6 @@
 # Build your own app
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fvulauditor%2Freact-login.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fvulauditor%2Freact-login?ref=badge_shield)
+
 
 1. Open `webpack.config.js` and change the `app_root` value from `src_users` to `src`
 
@@ -18,3 +20,7 @@ Besides the `start` script, there are also other scripts
 |`test-watch`| Starts the unit testing and watches for changes to re-run the tests|
 |`build-dev`|Builds the js/css bundle files in the `public` folder. Adds debugging code for development|
 |`build-prod`|Builds the js/css bundle minified files in the `public` folder|
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fvulauditor%2Freact-login.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fvulauditor%2Freact-login?ref=badge_large)
